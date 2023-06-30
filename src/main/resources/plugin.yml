@@ -1,0 +1,4 @@
+name: BlockBreakControlTutorial
+version: '${project.version}'
+main: me.isaacfediw.blockbreakcontroltutorial.BlockBreakControlTutorial
+api-version: 1.19
